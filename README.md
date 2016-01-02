@@ -12,10 +12,13 @@ This is a mix sample app built by python framework `Flask`.
 
 ## Features ##
 - [x] Hello World
-- [ ] Hello World API
+- [x] Hello World API
 - [ ] Hello World Print Scheduler
 
 ## How to install new package or module or library ? ##
 1. `. bin/activate`
 2. `pip install <module_name>`
 3. `pip freeze > requirements.txt`
+
+## How to run application on development ? ##
+`python application.py`
