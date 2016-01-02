@@ -11,7 +11,11 @@ This is a mix sample app built by python framework `Flask`.
 8. `pip install -r requirements.txt`
 
 ## Features ##
-- [ ] Hello World
+- [x] Hello World
+- [ ] Hello World API
+- [ ] Hello World Print Scheduler
 
-## Others ##
-Don't forget to run `pip freeze > requirements.txt` after install new package.
+## How to install new package or module or library ? ##
+1. `. bin/activate`
+2. `pip install <module_name>`
+3. `pip freeze > requirements.txt`
